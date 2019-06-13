@@ -1,3 +1,5 @@
 # gitskills
 
-git 很nb 啊
+git is very nb
+
+itsok
